@@ -5,6 +5,8 @@ editor: visual
 ---
 
 ## 
-Hi! This is really fun. 
 
-Cool.
+Hi! This is really fun.
+
+Yay!
+
