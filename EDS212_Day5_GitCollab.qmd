@@ -9,3 +9,8 @@ editor: visual
 Hi! This is really fun.
 
 Yay!
+
+```{r}
+pikas <- 1+1
+pikas
+```
