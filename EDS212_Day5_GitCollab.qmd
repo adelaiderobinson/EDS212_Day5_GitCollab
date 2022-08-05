@@ -8,7 +8,7 @@ editor: visual
 
 Hi! This is really fun.
 
-Yay!
+Yay!!
 
 
 ```{r}
